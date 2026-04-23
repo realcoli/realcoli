@@ -57,4 +57,4 @@ Python | Pandas | NumPy | SQL | Scikit-learn | Excel | Jupyter
   <a href="mailto:renata.alvescl@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>r
+</p>
