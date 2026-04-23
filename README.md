@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./banner.png" width="100%" style="max-height: 250px; object-fit: cover;" />
+  <div style="width: 100%; height: 220px; overflow: hidden;">
+    <img src="./banner.png" style="width: 100%; object-fit: cover;" />
+  </div>
 </p>
 
 ## 👩‍💻 Sobre mim
