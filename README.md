@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" />
+</p>
 
-<!--
-**realcoli/realcoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Sobre mim
 
-Here are some ideas to get you started:
+Bacharel em Física em transição para Data Science  
+Python • SQL • Análise de Dados  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Projetos
+
+- Análise de comportamento de usuários em plataforma de delivery
