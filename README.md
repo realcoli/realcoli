@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.comm/realcoli/realcoli/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/realcoli/realcoli/main/banner.png" />
 </p>
 
 
