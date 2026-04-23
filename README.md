@@ -1,15 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/realcoli/realcoli/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/realcoli/realcoli/main/banner.png" width="100%" />
 </p>
-
-
-## 👩‍💻 Sobre mim
-
-Bacharel em Física em transição para Data Science  
-Python • SQL • Análise de Dados  
-
----
-
-## 📊 Projetos
-
-- Análise de comportamento de usuários em plataforma de delivery
