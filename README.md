@@ -2,6 +2,7 @@
   <img src="banner.png" />
 </p>
 
+
 ## 👩‍💻 Sobre mim
 
 Bacharel em Física em transição para Data Science  
