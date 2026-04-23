@@ -21,10 +21,7 @@
 </p>
 
 
-## 👩‍💻 Sobre mim
-...
 
-## 👩‍💻 Sobre mim
 
 ## 👩‍💻 Sobre mim
 
@@ -53,5 +50,11 @@ Python | Pandas | NumPy | SQL | Scikit-learn | Excel | Jupyter
 
 ## 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/realcoli
-- Email: realcoli@yahoo.com.br
+<p>
+  <a href="https://linkedin.com/in/realcoli">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:renata.alvescl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>r
