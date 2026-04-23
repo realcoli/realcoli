@@ -1,4 +1,6 @@
-![Banner](./banner.png)
+<p align="center">
+  <img src="./banner.png" width="70%" />
+</p>
 
 ## 👩‍💻 Sobre mim
 
