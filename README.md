@@ -1,8 +1,10 @@
-![Banner](./banner2.png)
+![Banner](./bannerdef.png)
 
 
 <br/>
 <p align="center">
+  <img src="bannerdef.png" width="100%">
+</p>
 
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white" />
