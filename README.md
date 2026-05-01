@@ -1,7 +1,6 @@
 ![Banner](./banner2.png)
 
 <br/>
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
