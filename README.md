@@ -3,10 +3,6 @@
   <img src="bannerdef.png" width="100%">
 </p>
 
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
-
 # 👋 Hi, I'm Renata
 
 ### Data Science & Bioinformatics  
