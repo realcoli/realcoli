@@ -1,4 +1,4 @@
-![Banner](./banner1.png)
+![Banner](./banner2.png)
 
 <br/>
 
