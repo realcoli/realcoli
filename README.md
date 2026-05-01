@@ -23,32 +23,43 @@
 
 
 
-## 👩‍💻 Sobre mim
+# 👋 Hi, I'm Renata
 
-Bacharel em Física em transição para Data Science, com foco em análise de dados, Python e SQL.
-
-Interesse em analisar comportamento de usuários, gerar insights e apoiar decisões orientadas por dados, especialmente em produtos digitais.
-
----
-
-## 💻 Tecnologias
-
-Python | Pandas | NumPy | SQL | Scikit-learn | Excel | Jupyter
+### Data Science & Bioinformatics  
+Python • SQL • Machine Learning  
 
 ---
 
-## 📊 Projeto em destaque
-
-### Análise de comportamento de usuários em plataforma de delivery
-
-- análise exploratória de dados  
-- identificação de padrões de navegação  
-- modelagem preditiva (Regressão Logística)  
-- geração de insights  
+### 📊 Turning data into insights for real-world decisions
 
 ---
 
-## 📫 Contato
+## 🧠 About Me
+
+Bachelor in Physics transitioning into Data Science, with focus on data analysis, Python and SQL.
+
+Interested in understanding user behavior, extracting insights and supporting data-driven decisions, especially in digital products.
+
+---
+
+## 🛠️ Tech Stack
+
+Python • Pandas • NumPy • SQL • Scikit-learn • Jupyter • Excel  
+
+---
+
+## 🚀 Featured Project
+
+### 📦 Olist Operational Analysis
+
+Analysis of delivery performance, demand patterns and logistics efficiency.
+
+👉 [View Repository](https://github.com/realcoli/olist-operational-analysis)  
+📓 [Open in Colab](https://colab.research.google.com/drive/12EJqpVnDTMaJ2UDV3VxwMqg1_k1JCHaw?usp=sharing)
+
+---
+
+## 📫 Contact
 
 <p>
   <a href="https://linkedin.com/in/realcoli">
