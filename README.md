@@ -16,31 +16,17 @@ Python • SQL • Machine Learning
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff88"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00ff88"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logoColor=00ff88"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logoColor=00ff88"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=00ff88"/>
-
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=00ff88"/>
 </p>
 
 ---
