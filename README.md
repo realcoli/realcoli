@@ -7,6 +7,8 @@
 ### Data Science & Bioinformatics  
 Python • SQL • Machine Learning  
 
+📍 Based in Brazil
+
 ---
 
 ### 📊 Turning data into insights for real-world decisions
