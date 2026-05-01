@@ -1,6 +1,3 @@
-![Banner](./bannerdef.png)
-
-
 <br/>
 <p align="center">
   <img src="bannerdef.png" width="100%">
