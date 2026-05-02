@@ -60,6 +60,14 @@ Advanced data analysis focused on improving delivery performance, predicting bot
 * **Key Insights:** * Detected high-demand time windows to balance delivery fleet availability.
   * Mapped high-latency delivery zones to optimize local supply distribution.
   * Analyzed operational efficiency to establish achievable SLA (Service Level Agreement) targets.
+ 
+### 🗄️ [Sales Intelligence Analysis with SQL](https://github.com/realcoli/ecommerce-sql-insights)
+An advanced SQL and Python project designed to extract financial and operational metrics from a relational database to solve real-world e-commerce business problems.
+* **Business Problem:** Tracking monthly revenue trends, mapping high-value customers for retention strategies, and analyzing product performance to optimize inventory.
+* **Skills:** Complex Joins, Aggregations, Data Transformation (`strftime`), and SQLite Integration.
+* **Key Insights:** * Identified the top-performing sales month to aid in inventory forecasting and seasonal promotion planning.
+  * Segmented high-value customers (VIPs) to support targeted loyalty programs.
+  * Isolated the highest-grossing products and categories (e.g., Electronics) to guide marketing and replenishment efforts.
 
 
 
