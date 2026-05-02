@@ -43,7 +43,7 @@ I enjoy working with data to uncover patterns, generate insights and support dec
 
 ## 🚀 Featured Project
 
-### 📦 E-commerce & Logistics Operational Analysis — Olist(https://github.com/realcoli/olist-operational-analysis)
+### 📦 [E-commerce & Logistics Operational Analysis — Olist](https://github.com/realcoli/olist-operational-analysis)
 Exploratory and statistical data analysis focused on supply chain and e-commerce optimization, simulating real-world challenges of major delivery and marketplace platforms.
 
 👉 [View Repository](https://github.com/realcoli/olist-operational-analysis) 
