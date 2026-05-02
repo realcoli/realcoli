@@ -2,7 +2,7 @@
   <img src="bannerdef.png" width="100%">
 </p>
 
-# 👋 Hi, I'm Renata
+# 👋 Hi, I'm Renata Alves
 
 ### Data Science & Bioinformatics  
 Python • SQL • Machine Learning  
@@ -49,6 +49,12 @@ Analysis of demand patterns, delivery performance and logistics efficiency using
 
 👉 [View Repository](https://github.com/realcoli/olist-operational-analysis)  
 📓 [Open in Colab](https://colab.research.google.com/drive/12EJqpVnDTMaJ2UDV3VxwMqg1_k1JCHaw?usp=sharing)
+
+
+### 📊 Delivery Users Behavior Analysis
+Analysis of consumption patterns, customer spending, and tipping behavior for delivery platforms.
+👉 [View Repository](https://github.com/realcoli/analise-usuarios-delivery) 
+📓 [Open in Colab](https://colab.research.google.com/drive/1GNxiTzfROMjAwSE2AFFOtniFGfwDZZVO?usp=sharing)
 
 ---
 
