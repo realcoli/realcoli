@@ -46,25 +46,20 @@ I enjoy working with data to uncover patterns, generate insights and support dec
 ### 📦 [E-commerce & Logistics Operational Analysis — Olist](https://github.com/realcoli/olist-operational-analysis)
 Exploratory and statistical data analysis focused on supply chain and e-commerce optimization, simulating real-world challenges of major delivery and marketplace platforms.
 
-👉 [View Repository](https://github.com/realcoli/olist-operational-analysis) 
-📓 [Open in Colab](https://colab.research.google.com/drive/12EJqpVnDTMaJ2UDV3VxwMqg1_k1JCHaw?usp=sharing) 
-
 * **Business Problem:** Identifying operational bottlenecks, analyzing peak demand hours, and detecting extreme delivery delays.
 * **Technologies:** Python, Pandas, Matplotlib, Seaborn, SciPy.
 * **Key Insights:** * Mapping peak ordering hours (10 AM to 10 PM) to optimize customer support and operational staffing.
   * Visual identification of Brazilian states exceeding the national delivery time average to trigger logistics reviews.
   * Application of Z-score analysis to isolate and mitigate extreme delivery outliers.
+
  
-### 📊 On-Demand Delivery & Logistics Optimization
+### 📊 [On-Demand Delivery & Logistics Optimization](https://github.com/realcoli/analise-usuarios-delivery)
 Advanced data analysis focused on improving delivery performance, predicting bottlenecks, and optimizing fulfillment operations for last-mile logistics.
 * **Business Problem:** Minimizing delivery times, identifying underperforming regions, and optimizing resource allocation during peak hours.
 * **Technologies:** Python, Pandas, Matplotlib, Seaborn, NumPy.
 * **Key Insights:** * Detected high-demand time windows to balance delivery fleet availability.
   * Mapped high-latency delivery zones to optimize local supply distribution.
   * Analyzed operational efficiency to establish achievable SLA (Service Level Agreement) targets.
-
-👉 [View Repository](https://github.com/realcoli/analise-usuarios-delivery)  
-📓 [Open in Colab](https://colab.research.google.com/drive/1GNxiTzfROMjAwSE2AFFOtniFGfwDZZVO?usp=sharing)
 
 
 
